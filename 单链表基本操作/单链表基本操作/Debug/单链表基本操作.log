@@ -1,0 +1,4 @@
+﻿  Seqlist.c
+c:\users\hc\source\repos\单链表基本操作\单链表基本操作\seqlist.c(168): warning C4047: “函数”:“PNode *”与“PNode **”的间接级别不同
+c:\users\hc\source\repos\单链表基本操作\单链表基本操作\seqlist.c(168): warning C4024: “SListClear”: 形参和实参 1 的类型不同
+  单链表基本操作.vcxproj -> C:\Users\hc\source\repos\单链表基本操作\Debug\单链表基本操作.exe
